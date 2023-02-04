@@ -98,7 +98,7 @@ def PrintTotals(EmpTotals):
 
 
 if __name__ == "__main__":
-    # COMMENT OUT THE FOLLOWING CODE
+    #  COMMENT OUT THE FOLLOWING CODE
     # #TotEmployees = 0
     #TotHours = 0.00
     #TotGrossPay = 0.00
